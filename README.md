@@ -13,12 +13,12 @@ The Discord Tech News Bot is a Discord bot built using Discord.js that provides 
 3. News API key
 
 # Installation
-1.Clone this repository to your local machine.
-2.Install dependencies using npm install.
-3.Create a .env file in the root directory and add your Discord bot token and News API key.
-CLIENT_TOKEN=your_discord_bot_token_here
-NEWS_API_KEY=your_news_api_key_here
-4.Start the bot using node techbot.js.
+1.Clone this repository to your local machine.  
+2.Install dependencies using npm install.  
+3.Create a .env file in the root directory and add your Discord bot token and News API key.  
+CLIENT_TOKEN=your_discord_bot_token_here  
+NEWS_API_KEY=your_news_api_key_here  
+4.Start the bot using node techbot.js.  
 
 ## How to generate Client Token
 
