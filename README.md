@@ -9,7 +9,7 @@ The Discord Tech News Bot is a Discord bot built using Discord.js that provides 
 
 # Prerequisites
 1. Node.js installed on your machine
-2. Discord bot token
+2. Client token
 3. News API key
 
 # Installation
