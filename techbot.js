@@ -34,7 +34,6 @@ client.on("messageCreate", async (message) => {
     }
 });
 
-// Replace YOUR_BOT_TOKEN with your actual bot token
 client.login(process.env.CLIENT_TOKEN)
 .then(() => {
     console.log('Logged in successfully!');
