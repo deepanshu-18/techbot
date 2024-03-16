@@ -3,9 +3,9 @@
 The Discord Tech News Bot is a Discord bot built using Discord.js that provides technology news specifically for the Indian region in English language. Users can trigger the bot to fetch a random technology news article by typing technews.
 
 # Features
-1.Fetches technology news from the News API, filtering for English language articles and focusing on the Indian region.
-2.Responds with a random technology news article upon command.
-3.Simple and easy-to-use interface for fetching technology news within Discord servers.
+1.Fetches technology news from the News API, filtering for English language articles and focusing on the Indian region.  
+2.Responds with a random technology news article upon command.  
+3.Simple and easy-to-use interface for fetching technology news within Discord servers.  
 
 # Prerequisites
 1. Node.js installed on your machine
