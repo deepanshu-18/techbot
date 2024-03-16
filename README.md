@@ -19,3 +19,8 @@ The Discord Tech News Bot is a Discord bot built using Discord.js that provides 
 CLIENT_TOKEN=your_discord_bot_token_here
 NEWS_API_KEY=your_news_api_key_here
 4.Start the bot using node techbot.js.
+
+*Screenshot showing the Tech News Bot responding with a random technology news article.*
+
+
+![Screenshot 2024-03-16 123249](https://github.com/deepanshu-18/techbot/assets/130245433/7ea9a35b-87f7-4536-938b-46d927b9856d)
